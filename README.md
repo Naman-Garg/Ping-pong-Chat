@@ -10,4 +10,4 @@ Client.c :-    gcc Client.c -o client
 Server.c :-    gcc Server.c -o server
                ./server
 
-<!--- #Only you can change your Life, No one do it for you ---!>
+#---> Only you can change your Life, No one do it for you <---#
